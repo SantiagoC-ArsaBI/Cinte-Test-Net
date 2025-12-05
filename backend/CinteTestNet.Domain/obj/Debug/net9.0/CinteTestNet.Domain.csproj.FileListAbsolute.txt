@@ -1,0 +1,12 @@
+/home/scancino/Projects/Cinte-Test-Net/backend/CinteTestNet.Domain/bin/Debug/net9.0/CinteTestNet.Domain.deps.json
+/home/scancino/Projects/Cinte-Test-Net/backend/CinteTestNet.Domain/bin/Debug/net9.0/CinteTestNet.Domain.dll
+/home/scancino/Projects/Cinte-Test-Net/backend/CinteTestNet.Domain/bin/Debug/net9.0/CinteTestNet.Domain.pdb
+/home/scancino/Projects/Cinte-Test-Net/backend/CinteTestNet.Domain/obj/Debug/net9.0/CinteTestNet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/scancino/Projects/Cinte-Test-Net/backend/CinteTestNet.Domain/obj/Debug/net9.0/CinteTestNet.Domain.AssemblyInfoInputs.cache
+/home/scancino/Projects/Cinte-Test-Net/backend/CinteTestNet.Domain/obj/Debug/net9.0/CinteTestNet.Domain.AssemblyInfo.cs
+/home/scancino/Projects/Cinte-Test-Net/backend/CinteTestNet.Domain/obj/Debug/net9.0/CinteTestNet.Domain.csproj.CoreCompileInputs.cache
+/home/scancino/Projects/Cinte-Test-Net/backend/CinteTestNet.Domain/obj/Debug/net9.0/CinteTestNet.Domain.sourcelink.json
+/home/scancino/Projects/Cinte-Test-Net/backend/CinteTestNet.Domain/obj/Debug/net9.0/CinteTestNet.Domain.dll
+/home/scancino/Projects/Cinte-Test-Net/backend/CinteTestNet.Domain/obj/Debug/net9.0/refint/CinteTestNet.Domain.dll
+/home/scancino/Projects/Cinte-Test-Net/backend/CinteTestNet.Domain/obj/Debug/net9.0/CinteTestNet.Domain.pdb
+/home/scancino/Projects/Cinte-Test-Net/backend/CinteTestNet.Domain/obj/Debug/net9.0/ref/CinteTestNet.Domain.dll

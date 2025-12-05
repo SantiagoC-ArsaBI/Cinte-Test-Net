@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "36pWv5Ls6geSczReP+bZ8UcabKYitGDanPuCD6BFoWc=",
+  "Source": "CinteTestNet.API",
+  "BasePath": "_content/CinteTestNet.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
