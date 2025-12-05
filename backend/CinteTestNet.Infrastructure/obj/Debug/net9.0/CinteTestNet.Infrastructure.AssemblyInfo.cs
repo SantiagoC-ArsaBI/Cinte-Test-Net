@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CinteTestNet.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d354690b59143851142eaeadb348468a10508e77")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88647d4e8f0d3ae92d9b27c2d7227e88d56cb136")]
 [assembly: System.Reflection.AssemblyProductAttribute("CinteTestNet.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CinteTestNet.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
